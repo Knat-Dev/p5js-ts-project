@@ -21,7 +21,7 @@ The p5js-ts-project is a creative coding project that utilizes the p5.js library
 
 ## Usage
 
-1. Start the development server: `npm dev`
+1. Start the development server: `npm run dev`
 2. Open your browser and navigate to `http://localhost:5173`
 3. Begin coding and see your changes live on the canvas
 
