@@ -11,6 +11,7 @@ The p5js-ts-project is a creative coding project that utilizes the p5.js library
 - Interactive canvas for drawing and animation
 - Support for various p5.js functions and libraries
 - TypeScript integration for enhanced code organization and type safety
+- Utilizes Vite for bundling, eliminating the need to manually include each script in the HTML.
 
 ## Installation
 
