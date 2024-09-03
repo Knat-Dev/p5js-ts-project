@@ -15,7 +15,7 @@ The p5js-ts-project is a creative coding project that utilizes the p5.js library
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/p5js-ts-project.git`
+1. Clone the repository: `git clone https://github.com/knat-dev/p5js-ts-project.git`
 2. Navigate to the project directory: `cd p5js-ts-project`
 3. Install dependencies: `npm install`
 

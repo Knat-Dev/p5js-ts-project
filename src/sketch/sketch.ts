@@ -1,7 +1,7 @@
 import P5 from 'p5';
 
 export const setup = (p: P5) => {
-  p.createCanvas(400, 400);
+  p.createCanvas(800, 600);
   p.background(0);
 };
 

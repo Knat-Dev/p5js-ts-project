@@ -1,5 +1,6 @@
 import P5 from 'p5';
 import { draw, setup } from './sketch';
+import './style.scss';
 
 new P5((p: P5) => {
   p.setup = () => {
