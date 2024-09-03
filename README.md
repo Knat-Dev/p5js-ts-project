@@ -1,6 +1,6 @@
 # p5js-ts-project
 
-This is a project for creative coding using p5.js and TypeScript.
+This is a template project for creative coding using p5.js and TypeScript.
 
 ## Description
 
