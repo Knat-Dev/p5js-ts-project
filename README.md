@@ -2,7 +2,9 @@
 
 This is a template project for creative coding using p5.js and TypeScript.
 
-![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)
+<p align="center">
+  <img src="https://img.shields.io/badge/License-MIT-blue.svg" />
+</p>
 
 ## Project structure
 
